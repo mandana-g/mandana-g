@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 FinTech, consulting and telecom.
 </div>  
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-mandana.goudarzian-blue?logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mandana.goudarzian-blue?logo=linkedin)](https://www.linkedin.com/in/mandana-goudarzian)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
