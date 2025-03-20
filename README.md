@@ -12,15 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="profile visit" >
-  <img src="https://komarev.com/ghpvc/?username=mandana-g&style=flat-square&color=blue" alt=""/>
-</div>  
 <div>
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN3aDd6ZnZvMW0wZXQ4bjJsNXFhZWxscWplaTBkZzI0eGFlajM0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif" width="100"/> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN3aDd6ZnZvMW0wZXQ4bjJsNXFhZWxscWplaTBkZzI0eGFlajM0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif" width="100"/>
+Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </div>
 <div>
- I am Mandana Goudarzian, a Software Engineer with experience in coding, testing, system analysis and product/project management in various sectors including e-commerce,
-FinTech, consulting and telecom.
+I'm Mandana, a Software Engineer with experience in coding, testing, system analysis, and product/project management across multiple sectors, including e-commerce, FinTech, consulting, and telecom. I am passionate about AI, Machine Learning, and intelligent systems.
 </div>  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mandana.goudarzian-blue?logo=linkedin)](https://www.linkedin.com/in/mandana-goudarzian)
