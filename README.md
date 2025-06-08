@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<b>
 Hi there! I'm Mandana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-</div>
+</b>
 <div>
 I'm a Software Engineer with experience in coding, testing, system analysis, and product/project management across multiple sectors, including e-commerce, FinTech, logistics, and telecom. I am passionate about AI, Machine Learning, and intelligent systems.
 </div>  
